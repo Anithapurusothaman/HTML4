@@ -1,0 +1,40 @@
+/* body{
+    background-color: rgb(169, 164, 240);
+    margin: 75px;
+    padding-left: 300px;
+
+}
+.form{
+    border: 2px solid rgb(233, 22, 22);
+    background-color: rgb(106, 125, 233);
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#first  */
+body{
+    background-color: rgb(90, 231, 163);
+    margin: 75px;
+    padding-bottom: 50px;
+    padding-left: 350px;
+    
+}
+#Gender{
+    width: 170px;
+    height: 10;
+}
+
+.form{
+    border: 2px;
+    width:200px;
+    background-color: rgb(81, 137, 210);
+    padding-inline: 30px;
+    padding-bottom: 20px;
+    
+}
+#reg{
+    background-color: green;
+    color: white;
+    height: 30px;
+    width: 150px;
+    margin-left: 10px;
+}
